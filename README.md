@@ -19,3 +19,12 @@ Work in progress
 This repository evolves alongside a Miro concept board
 ## License
 Open concept. Open collaboration.
+## Visual System (Miro)
+
+This project is developed using both structured documentation and visual systems thinking.
+
+🧭 **Live Miro board (concept architecture):**  
+👉 https://miro.com/app/board/https://miro.com/app/board/uXjVGWWpY7c=/?share_link_id=797095429260
+
+GitHub captures the written vision and logic.  
+Miro represents the living system map of the idea.
